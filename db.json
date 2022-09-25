@@ -1,0 +1,146 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "idAuthor": 1,
+      "title": "Dark Souls",
+      "releaseYear": 2011,
+      "genre": "Dungeon crawler"
+    },
+    {
+      "id": 2,
+      "idAuthor": 2,
+      "title": "Cuphead",
+      "releaseYear": 2017,
+      "genre": "Jogo eletrônico de plataforma"
+    },
+    {
+      "id": 3,
+      "idAuthor": 3,
+      "title": "Sky: Children of the Light",
+      "releaseYear": 2019,
+      "genre": " Jogo eletrônico de aventura "
+    },
+    {
+      "id": 4,
+      "idAuthor": 4,
+      "title": "Minecraft",
+      "releaseYear": 2011,
+      "genre": "Jogo eletrônico de sobrevivência"
+    },
+    {
+      "id": 5,
+      "idAuthor": 5,
+      "title": "Stardew Valley",
+      "releaseYear": 2016,
+      "genre": "RPG eletrônico"
+    },
+    {
+      "id": 6,
+      "idAuthor": 6,
+      "title": "Hollow Knight",
+      "releaseYear": 2017,
+      "genre": " Metroidvania"
+    },
+    {
+      "id": 7,
+      "idAuthor": 7,
+      "title": "Terraria",
+      "releaseYear": 2011,
+      "genre": "Jogo eletrônico de ação e aventura"
+    },
+    {
+      "id": 8,
+      "idAuthor": 8,
+      "title": "Graveyard Keeper",
+      "releaseYear": 2018,
+      "genre": "Jogo eletrônico de aventura"
+    },
+    {
+      "id": 9,
+      "idAuthor": 9,
+      "title": "Roblox",
+      "releaseYear": 2006,
+      "genre": "Jogo eletrônico de simulação"
+    },
+    {
+      "id": 10,
+      "idAuthor": 10,
+      "title": "Limbo",
+      "releaseYear": 2010,
+      "genre": "Jogo eletrônico de quebra-cabeça"
+    },
+  ],
+  "author": [
+    {
+      "id": 1,
+      "Name": "Hidetaka Miyazaki",
+      "Age": 48,
+      "yearOFbirth": 1974,
+      "company": "FromSoftware"
+    },
+    {
+      "id": 2,
+      "Name": "Jared Moldenhauer",
+      "Age": 45,
+      "yearOFbirth": 1977,
+      "company": "StudioMDHR Entertainment"
+    },
+    {
+      "id": 3,
+      "Name": "Jenova Chen",
+      "Age": 40,
+      "yearOFbirth": 1981,
+      "company": "Thatgamecompany"
+    },
+    {
+      "id": 4,
+      "Name": "Markus Persson",
+      "Age": 1979,
+      "yearOFbirth": 43,
+      "company": "Mojang Studios"
+    },
+    {
+      "id": 5,
+      "Name": "Eric Barone",
+      "Age": 34,
+      "yearOFbirth": 1987,
+      "company": "ConcernedApe"
+    },
+    {
+      "id": 6,
+      "Name": "Ari Gibson",
+      "Age": 36,
+      "yearOFbirth": 1985,
+      "company": "Team Cherry"
+    },
+    {
+      "id": 7,
+      "Name": "Yorai Omer",
+      "Age": 27,
+      "yearOFbirth": 1995,
+      "company": "Re-Logic"
+    },
+    {
+      "id": 8,
+      "Name": "Nikita Kulaga",
+      "Age": 45,
+      "yearOFbirth": 1977,
+      "company": "Lazy Bear Games"
+    },
+    {
+      "id": 9,
+      "Name": "David Baszucki",
+      "Age": 59,
+      "yearOFbirth": 1963,
+      "company": "Roblox Corporation"
+    },
+    {
+      "id": 10,
+      "Name": "Arnt Jensen",
+      "Age": 47,
+      "yearOFbirth": 1975,
+      "company": "Playdead"
+    }
+  ]
+}
